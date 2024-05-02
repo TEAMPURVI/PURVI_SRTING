@@ -8,6 +8,6 @@ API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
 #OWNER_ID = int(getenv("7037832227"))
-OWNER_ID = int(getenv("OWNER_ID", "6051510669"))
+OWNER_ID = int(getenv("OWNER_ID", "6730120198"))
 MONGO_DB_URI = getenv("MONGO_DB_URI")
-MUST_JOIN = getenv("MUST_JOIN", https://t.me/Purvi_UPdates)
+MUST_JOIN = getenv("MUST_JOIN", None)
