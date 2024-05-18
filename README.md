@@ -4,7 +4,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purvimusic&repo=PURVI_SRTING&theme=flag-india)
 
 [![GIF](https://github.com/purvimusic/PURVI_SRTING/blob/main/Sagexdd.gif)](https://github.com/purvimusic)
-   [![𝖬𝖱.𝖣𝖠𝖷𝖷](https://github-stats-alpha.vercel.app/api?username=purvimusic"RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=purvimusic "RAUSHAN")
+   [![ARA.KING](https://github-stats-alpha.vercel.app/api?username=purvimusic"RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=purvimusic "RAUSHAN")
                   
 
 
