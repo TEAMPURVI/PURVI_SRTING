@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purvimusic&repo=PURVI_SRTING&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=PURVI_STRING&theme=flag-india)
 
-[![GIF](https://github.com/purvimusic/PURVI_SRTING/blob/main/Sagexdd.gif)](https://github.com/purvimusic)
-   [![ARA.KING](https://github-stats-alpha.vercel.app/api?username=purvimusic"RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=purvimusic "RAUSHAN")
+[![GIF](https://github.com/TEAMPURVI/PURVI_STRING/blob/main/Sagexdd.gif)](https://github.com/TEAMPURVI)
+   [![ARA.KING](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI"RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
                   
 
 
@@ -17,10 +17,10 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/purvimusic/PURVI_SRTING"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAMPURVI/PURVI_STRING"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
 
   
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=purvimusic&show_icons=true&locale=en&layout=compact" alt="purvimusic" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="TEAMPURVI" /></p>
 
 
 
