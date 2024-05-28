@@ -27,7 +27,7 @@ async def start(bot: Client, msg: Message):
                 ],
                 [
                     InlineKeyboardButton(" 𝖲upport", url="https://t.me/Purvi_UPdates"),
-                    InlineKeyboardButton("𝖮wner", url="https://t.me/your_alpha_baby")
+                    InlineKeyboardButton("𝖮wner", url="https://t.me/ur_alpha_baby")
                 ]
             ]
         ),
